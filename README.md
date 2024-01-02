@@ -1,4 +1,4 @@
-## AWS mediaConvert, Lambda
+## AWS Lambda exapmle
 
 #### convert video files into streaming files (using AWS MediaConvert, Lambda)
 AWS MediaConvert, Lambda를 이용하여 
